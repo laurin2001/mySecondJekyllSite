@@ -1,0 +1,11 @@
+name: "My Cool Jekyll Site"
+description: "my description"
+
+url: "http://laurin2001.github.io/mySecondJekyllSite"
+baseurl: "/mySecondJekyllSite"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
