@@ -1,4 +1,4 @@
 mySecondJekyllSite
 ==================
 
-This is my second Jekyll site
+This is my second Jekyll site.
