@@ -4,7 +4,7 @@ description: "my description"
 source: .
 destination: _site
 
-url: "http://notandrewkaye.github.io/mySecondJekyllSite/"
+url: "http://laurin2001.github.io/mySecondJekyllSite/"
 baseurl: "/mySecondJekyllSite"
 
 paginate: 10
