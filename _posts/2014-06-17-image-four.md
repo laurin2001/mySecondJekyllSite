@@ -5,4 +5,4 @@ tag: flowersfour
 category: image
 ---
 
-![Alternate Text](media/flowers4.jpg)
+![Alternate Text]({{ site.baseurl}}/media/flowers4.jpg)
